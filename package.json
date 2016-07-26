@@ -16,7 +16,7 @@
   "main": "lib/eventql.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/eventql/eventql-nodejs.org"
+    "url": "https://github.com/eventql/eventql-nodejs"
   },
   "bugs": {
     "url": "https://github.com/eventql/eventql-nodejs/issues"
